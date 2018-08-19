@@ -1,6 +1,7 @@
 #include <Arduino.h>
 #include <OneWire.h>
 #include <DallasTemperature.h>
+#include <Adafruit_SSD1306.h>
 
 // Data wire is plugged into port 2 on the Arduino
 #define ONE_WIRE_BUS 2
